@@ -145,7 +145,7 @@
         <surefire.plugin.version>2.22.1</surefire.plugin.version>
         <install.plugin.version>2.5.2</install.plugin.version>
         <deploy.plugin.version>2.8.2</deploy.plugin.version>
-        <site.plugin.version>3.7.1</site.plugin.version>
+        <site.plugin.version>3.12.1</site.plugin.version>
         <report.plugin.version>3.0.0</report.plugin.version>
     </properties>
 
